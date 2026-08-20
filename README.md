@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aslam%20Embedded&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20•%20IoT%20•%20Remote%20Display%20Units&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sk%20Aslam%20Ali&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20•%20IoT%20•%20Remote%20Display%20Units&descAlignY=55&descSize=18"/>
 </p>
 
 <p align="center">
